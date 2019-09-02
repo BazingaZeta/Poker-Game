@@ -1,0 +1,3 @@
+!/bin/bash
+clear
+java -jar ./PokerGame-1.0-SNAPSHOT.jar
